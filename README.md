@@ -13,3 +13,6 @@
 - [ ] A notification is shown if the card was created successfully
 - [x] User can also enter multiple choice answers when creating a card
 - [x] App is further styled and customized!
+
+<img src="![Flashcard with Ali](https://user-images.githubusercontent.com/60219532/76134575-566b9380-5fed-11ea-9e18-b1d75d65c14c.gif)
+" width="200" height="400" />  
